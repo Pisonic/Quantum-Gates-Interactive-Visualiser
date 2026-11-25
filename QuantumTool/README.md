@@ -9,7 +9,7 @@ A basic interactive GUI and a primordial terminal based application that allows 
 2. **Statevector and Shot Simulation**: You can inspect the exact statevector amplitudes, basis-state probabilities and shot based sampling counts.
 3. **Interactive Bloch Spheres**: See them undergo changes in real time!
 
-_Worth mentioning that the aforementioned are the features of 'therealdeal.py' only. There are no spheres in the primordial predecessor._
+_Worth mentioning that the aforementioned are the features of 'therealdeal-1.py' only. There are no spheres in the primordial predecessor._
 
 
 ## Libraries Used
