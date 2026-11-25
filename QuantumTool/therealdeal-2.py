@@ -32,7 +32,7 @@ def get_bloch_vectors(state: Statevector) -> list[np.ndarray]:
 class QuantumToolGUI:
     def __init__(self, root: tk.Tk) -> None:
         self.root = root
-        self.root.title("QuantumTool — Interactive Circuit & Animated Bloch Spheres")
+        self.root.title("Quantum Gates Visualizer")
         self.root.geometry("1220x780")
         self.root.configure(bg="#111827")
 
